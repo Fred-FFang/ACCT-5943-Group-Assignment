@@ -1,0 +1,189 @@
+NEE,NextEra Energy,Utilities,Multi-Utilities
+NRG,NRG Energy,Utilities,Independent Power Producers & Energy Traders
+PNW,Pinnacle West,Utilities,Multi-Utilities
+ED,Consolidated Edison,Utilities,Multi-Utilities
+AEP,American Electric Power,Utilities,Electric Utilities
+EIX,Edison International,Utilities,Electric Utilities
+XEL,Xcel Energy,Utilities,Multi-Utilities
+AWK,American Water Works,Utilities,Water Utilities
+PEG,Public Service Enterprise Group,Utilities,Electric Utilities
+CNP,CenterPoint Energy,Utilities,Multi-Utilities
+SRE,Sempra Energy,Utilities,Multi-Utilities
+DUK,Duke Energy,Utilities,Electric Utilities
+LNT,Alliant Energy,Utilities,Electric Utilities
+WEC,WEC Energy Group,Utilities,Electric Utilities
+AEE,Ameren,Utilities,Multi-Utilities
+DTE,DTE Energy,Utilities,Multi-Utilities
+ETR,Entergy,Utilities,Electric Utilities
+D,Dominion Energy,Utilities,Multi-Utilities
+CMS,CMS Energy,Utilities,Multi-Utilities
+NI,NiSource,Utilities,Multi-Utilities
+MAA,Mid-America Apartment Communities,Real Estate,Multi-Family Residential REITs
+CPT,Camden Property Trust,Real Estate,Multi-Family Residential REITs
+O,Realty Income,Real Estate,Retail REITs
+PLD,Prologis,Real Estate,Industrial REITs
+BXP,BXP, Inc.,Real Estate,Office REITs
+AMT,American Tower,Real Estate,Telecom Tower REITs
+CCI,Crown Castle,Real Estate,Telecom Tower REITs
+WY,Weyerhaeuser,Real Estate,Timber REITs
+UDR,UDR, Inc.,Real Estate,Multi-Family Residential REITs
+ESS,Essex Property Trust,Real Estate,Multi-Family Residential REITs
+KIM,Kimco Realty,Real Estate,Retail REITs
+SPG,Simon Property Group,Real Estate,Retail REITs
+SBAC,SBA Communications,Real Estate,Telecom Tower REITs
+IRM,Iron Mountain,Real Estate,Other Specialized REITs
+DLR,Digital Realty,Real Estate,Data Center REITs
+VTR,Ventas,Real Estate,Health Care REITs
+PSA,Public Storage,Real Estate,Self-Storage REITs
+EQR,Equity Residential,Real Estate,Multi-Family Residential REITs
+REG,Regency Centers,Real Estate,Retail REITs
+HST,Host Hotels & Resorts,Real Estate,Hotel & Resort REITs
+HAL,Halliburton,Energy,Oil & Gas Equipment & Services
+OKE,ONEOK,Energy,Oil & Gas Storage & Transportation
+CVX,Chevron Corporation,Energy,Integrated Oil & Gas
+HES,Hess Corporation,Energy,Integrated Oil & Gas
+FANG,Diamondback Energy,Energy,Oil & Gas Exploration & Production
+KMI,Kinder Morgan,Energy,Oil & Gas Storage & Transportation
+OXY,Occidental Petroleum,Energy,Oil & Gas Exploration & Production
+MPC,Marathon Petroleum,Energy,Oil & Gas Refining & Marketing
+MRO,Marathon Oil,Energy,Oil & Gas Exploration & Production
+EOG,EOG Resources,Energy,Oil & Gas Exploration & Production
+DVN,Devon Energy,Energy,Oil & Gas Exploration & Production
+XOM,ExxonMobil,Energy,Integrated Oil & Gas
+VLO,Valero Energy,Energy,Oil & Gas Refining & Marketing
+SLB,Schlumberger,Energy,Oil & Gas Equipment & Services
+COP,ConocoPhillips,Energy,Oil & Gas Exploration & Production
+CTRA,Coterra,Energy,Oil & Gas Exploration & Production
+TRGP,Targa Resources,Energy,Oil & Gas Storage & Transportation
+BKR,Baker Hughes,Energy,Oil & Gas Equipment & Services
+EQT,EQT Corporation,Energy,Oil & Gas Exploration & Production
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing
+WYNN,Wynn Resorts,Consumer Discretionary,Casinos & Gaming
+DPZ,Domino's,Consumer Discretionary,Restaurants
+TSLA,Tesla, Inc.,Consumer Discretionary,Automobile Manufacturers
+RCL,Royal Caribbean Group,Consumer Discretionary,Hotels, Resorts & Cruise Lines
+CMG,Chipotle Mexican Grill,Consumer Discretionary,Restaurants
+MCD,McDonald's,Consumer Discretionary,Restaurants
+MHK,Mohawk Industries,Consumer Discretionary,Home Furnishings
+PHM,PulteGroup,Consumer Discretionary,Homebuilding
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,Hotels, Resorts & Cruise Lines
+ETSY,Etsy,Consumer Discretionary,Broadline Retail
+GM,General Motors,Consumer Discretionary,Automobile Manufacturers
+NVR,NVR, Inc.,Consumer Discretionary,Homebuilding
+APTV,Aptiv,Consumer Discretionary,Automotive Parts & Equipment
+GRMN,Garmin,Consumer Discretionary,Consumer Electronics
+BWA,BorgWarner,Consumer Discretionary,Automotive Parts & Equipment
+BKNG,Booking Holdings,Consumer Discretionary,Hotels, Resorts & Cruise Lines
+MGM,MGM Resorts,Consumer Discretionary,Casinos & Gaming
+HLT,Hilton Worldwide,Consumer Discretionary,Hotels, Resorts & Cruise Lines
+YUM,Yum! Brands,Consumer Discretionary,Restaurants
+TSCO,Tractor Supply,Consumer Discretionary,Other Specialty Retail
+CBOE,Cboe Global Markets,Financials,Financial Exchanges & Data
+RF,Regions Financial Corporation,Financials,Regional Banks
+PGR,Progressive Corporation,Financials,Property & Casualty Insurance
+MET,MetLife,Financials,Life & Health Insurance
+BRO,Brown & Brown,Financials,Insurance Brokers
+TFC,Truist,Financials,Regional Banks
+COF,Capital One,Financials,Consumer Finance
+AFL,Aflac,Financials,Life & Health Insurance
+CPAY,Corpay,Financials,Transaction & Payment Processing Services
+GL,Globe Life,Financials,Life & Health Insurance
+EG,Everest Re,Financials,Reinsurance
+SCHW,Charles Schwab Corporation,Financials,Investment Banking & Brokerage
+BK,Bank of New York Mellon,Financials,Asset Management & Custody Banks
+NDAQ,Nasdaq, Inc.,Financials,Financial Exchanges & Data
+KEY,KeyCorp,Financials,Regional Banks
+AIG,American International Group,Financials,Multi-line Insurance
+MSCI,MSCI,Financials,Financial Exchanges & Data
+PFG,Principal Financial Group,Financials,Life & Health Insurance
+AXP,American Express,Financials,Consumer Finance
+HIG,Hartford (The),Financials,Property & Casualty Insurance
+FCX,Freeport-McMoRan,Materials,Copper
+LYB,LyondellBasell,Materials,Specialty Chemicals
+SHW,Sherwin-Williams,Materials,Specialty Chemicals
+CF,CF Industries,Materials,Fertilizers & Agricultural Chemicals
+MOS,Mosaic Company (The),Materials,Fertilizers & Agricultural Chemicals
+PKG,Packaging Corporation of America,Materials,Paper & Plastic Packaging Products & Materials
+DD,DuPont,Materials,Specialty Chemicals
+CE,Celanese,Materials,Specialty Chemicals
+IFF,International Flavors & Fragrances,Materials,Specialty Chemicals
+IP,International Paper,Materials,Paper & Plastic Packaging Products & Materials
+EMN,Eastman Chemical Company,Materials,Specialty Chemicals
+NUE,Nucor,Materials,Steel
+AVY,Avery Dennison,Materials,Paper & Plastic Packaging Products & Materials
+VMC,Vulcan Materials Company,Materials,Construction Materials
+ALB,Albemarle Corporation,Materials,Specialty Chemicals
+NEM,Newmont,Materials,Gold
+BALL,Ball Corporation,Materials,Metal, Glass & Plastic Containers
+STLD,Steel Dynamics,Materials,Steel
+DOW,Dow Inc.,Materials,Commodity Chemicals
+MLM,Martin Marietta Materials,Materials,Construction Materials
+SWK,Stanley Black & Decker,Industrials,Industrial Machinery & Supplies & Components
+CMI,Cummins,Industrials,Construction Machinery & Heavy Transportation Equipment
+FAST,Fastenal,Industrials,Trading Companies & Distributors
+PWR,Quanta Services,Industrials,Construction & Engineering
+BA,Boeing,Industrials,Aerospace & Defense
+GD,General Dynamics,Industrials,Aerospace & Defense
+HON,Honeywell,Industrials,Industrial Conglomerates
+GE,GE Aerospace,Industrials,Aerospace & Defense
+BLDR,Builders FirstSource,Industrials,Building Products
+WM,Waste Management,Industrials,Environmental & Facilities Services
+AME,Ametek,Industrials,Electrical Components & Equipment
+MMM,3M,Industrials,Industrial Conglomerates
+MAS,Masco,Industrials,Building Products
+DOV,Dover Corporation,Industrials,Industrial Machinery & Supplies & Components
+UNP,Union Pacific Corporation,Industrials,Rail Transportation
+UBER,Uber,Industrials,Passenger Ground Transportation
+LDOS,Leidos,Industrials,Diversified Support Services
+LHX,L3Harris,Industrials,Aerospace & Defense
+EXPD,Expeditors International,Industrials,Air Freight & Logistics
+GNRC,Generac,Industrials,Electrical Components & Equipment
+K,Kellanova,Consumer Staples,Packaged Foods & Meats
+PEP,PepsiCo,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+KDP,Keurig Dr Pepper,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+TAP,Molson Coors Beverage Company,Consumer Staples,Brewers
+PM,Philip Morris International,Consumer Staples,Tobacco
+KMB,Kimberly-Clark,Consumer Staples,Household Products
+HSY,Hershey's,Consumer Staples,Packaged Foods & Meats
+MNST,Monster Beverage,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+MO,Altria,Consumer Staples,Tobacco
+ADM,Archer-Daniels-Midland,Consumer Staples,Agricultural Products & Services
+CL,Colgate-Palmolive,Consumer Staples,Household Products
+KO,Coca-Cola Company (The),Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+MDLZ,Mondelez International,Consumer Staples,Packaged Foods & Meats
+CHD,Church & Dwight,Consumer Staples,Household Products
+KHC,Kraft Heinz,Consumer Staples,Packaged Foods & Meats
+T,AT&T,Communication Services,Integrated Telecommunication Services
+IPG,Interpublic Group of Companies (The),Communication Services,Advertising
+VZ,Verizon,Communication Services,Integrated Telecommunication Services
+NFLX,Netflix,Communication Services,Movies & Entertainment
+OMC,Omnicom Group,Communication Services,Advertising
+TMUS,T-Mobile US,Communication Services,Wireless Telecommunication Services
+LYV,Live Nation Entertainment,Communication Services,Movies & Entertainment
+GOOG,Alphabet Inc. (Class C),Communication Services,Interactive Media & Services
+PARA,Paramount Global,Communication Services,Movies & Entertainment
+META,Meta Platforms,Communication Services,Interactive Media & Services
+MTCH,Match Group,Communication Services,Interactive Media & Services
+CHTR,Charter Communications,Communication Services,Cable & Satellite
+GOOGL,Alphabet Inc. (Class A),Communication Services,Interactive Media & Services
+CMCSA,Comcast,Communication Services,Cable & Satellite
+AKAM,Akamai,Information Technology,Internet Services & Infrastructure
+GDDY,GoDaddy,Information Technology,Internet Services & Infrastructure
+ROP,Roper Technologies,Information Technology,Electronic Equipment & Instruments
+EPAM,EPAM Systems,Information Technology,IT Consulting & Other Services
+ANSS,Ansys,Information Technology,Application Software
+APH,Amphenol,Information Technology,Electronic Components
+CTSH,Cognizant,Information Technology,IT Consulting & Other Services
+TDY,Teledyne Technologies,Information Technology,Electronic Equipment & Instruments
+TYL,Tyler Technologies,Information Technology,Application Software
+NXPI,NXP Semiconductors,Information Technology,Semiconductors
+MSI,Motorola Solutions,Information Technology,Communications Equipment
+INTC,Intel,Information Technology,Semiconductors
+FTNT,Fortinet,Information Technology,Systems Software
+VRSN,Verisign,Information Technology,Internet Services & Infrastructure
+NOW,ServiceNow,Information Technology,Systems Software
+ANET,Arista Networks,Information Technology,Communications Equipment
+FSLR,First Solar,Information Technology,Semiconductors
+JNPR,Juniper Networks,Information Technology,Communications Equipment
+ENPH,Enphase,Information Technology,Semiconductor Materials & Equipment
+CDNS,Cadence Design Systems,Information Technology,Application Software
